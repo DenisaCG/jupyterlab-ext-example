@@ -1,6 +1,6 @@
 # jupyterlab_ext_example
 
-[![Github Actions Status](/workflows/Build/badge.svg)](/actions/workflows/build.yml)
+<!-- [![Github Actions Status](/workflows/Build/badge.svg)](/actions/workflows/build.yml) -->
 A JupyterLab extension example.
 
 ## Requirements
